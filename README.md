@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋 
+My name is Matthew Strumillo and I'm a:
+- Game Developer 
+- Modder
+- Passionate of optimized code
 
 <!--
 **dotBlueShoes/dotBlueShoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

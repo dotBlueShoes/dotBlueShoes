@@ -1,8 +1,20 @@
-### Hello there 👋 
-My name is Matthew Strumillo and I'm a:
-- Game Developer 
-- Modder
-- Passionate of optimized code
+### Hello there 👋 I'm Matthew Strumillo
+
+I'm a passionate of low-level programming concepts and you can find me working as a Game Developer, a modder, or a guy that tries hard writing low-level optimized code for no real reason. I am a student of Computer Science at Łódź University of Technology.
+
+And yes ... I am looking to collaborate 👯
+<!--
+- Work as a Game Developer 
+- Modding
+- Writting optimized low-level code
+-->
+
+### 💬 Conntact Me
+- [EMail](matthewstrumillo+git@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mateusz-strumi%C5%82%C5%82o-3260b1204/)
+
+### ✨ My released Projects & Demos
+- [Itch](https://itch.io/profile/dotblueshoes)
 
 <!--
 **dotBlueShoes/dotBlueShoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

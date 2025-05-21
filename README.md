@@ -12,7 +12,8 @@ I'm a passionate of low-level programming concepts and you can find me working a
 - [itch](https://itch.io/profile/dotblueshoes)
 
 ### ⚡ Study Cases
-- C# [ASP.NET-MVC-study](https://github.com/dotBlueShoes/ASP.NET-MVC-study), [MULTI-THREADING.NET-MVVM-study](https://github.com/Westesc/Programowanie_WSP)
+- C# [ASP.NET-MVC-study](https://github.com/dotBlueShoes/ASP.NET-MVC-study), [.NET-MVVM-MULTI-THREADING-study](https://github.com/Westesc/Programowanie_WSP)
+- Java [CBD-OOP-study](https://github.com/dotBlueShoes/Sudoku)
 
 <!--
 **dotBlueShoes/dotBlueShoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

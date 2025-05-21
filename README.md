@@ -11,6 +11,9 @@ I'm a passionate of low-level programming concepts and you can find me working a
 - [LinkedIn](https://www.linkedin.com/in/mateusz-strumi%C5%82%C5%82o-3260b1204/)
 - [itch](https://itch.io/profile/dotblueshoes)
 
+### ⚡ Study Cases
+- C# [ASP.NET-MVC-study](https://github.com/dotBlueShoes/ASP.NET-MVC-study), [MULTI-THREADING.NET-MVVM-study](https://github.com/Westesc/Programowanie_WSP)
+
 <!--
 **dotBlueShoes/dotBlueShoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

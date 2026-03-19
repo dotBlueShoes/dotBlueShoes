@@ -14,6 +14,7 @@ I'm a passionate of low-level programming concepts and you can find me working a
 ### ⚡ Study Cases
 - C# [ASP.NET-MVC-study](https://github.com/dotBlueShoes/ASP.NET-MVC-study), [.NET-MVVM-MULTI-THREADING-study](https://github.com/Westesc/Programowanie_WSP)
 - Java [CBD-OOP-study](https://github.com/dotBlueShoes/Sudoku)
+- Python [DA-AD-Converter](https://github.com/dotBlueShoes/DA-AD-Converter), [Bisection, secant method](https://github.com/dotBlueShoes/ReNumericalMethodsEx1)
 
 ### 👨‍🔧 Favorite Talks
 - [Practical Data Oriented Design](https://www.youtube.com/watch?v=IroPQ150F6c)
